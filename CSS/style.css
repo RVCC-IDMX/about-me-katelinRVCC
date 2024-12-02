@@ -1,0 +1,15 @@
+body {font-family:"Alumni Sans Pinstripe";
+    background-color: #26E2FB;
+    color: #FF694E;}
+h1, h2, h3, h4, h5, h6 {font-family:Parkinsans;
+    font-size: 30pt;}
+
+header {text-align: center;}
+
+#hero,footer {text-align: center;
+    color:#26E2FB;
+    border: 2px solid #FF694E;
+background-color: #8722FA;
+padding: 10px;}
+
+ #bio {text-align: center;}
