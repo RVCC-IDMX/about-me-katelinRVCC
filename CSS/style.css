@@ -21,3 +21,6 @@ border: 20px solid yellow}
 #gallery {border: 2px solid black;}
 #gallery figure {text-align: center;}
 #gallery img {max-width: 100%;}
+#lit {border-color: azure;
+text-align: center;
+text-decoration-color: #8722FA;}
