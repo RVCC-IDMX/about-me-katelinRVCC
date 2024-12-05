@@ -1,6 +1,6 @@
 body {font-family:"Alumni Sans Pinstripe";
-    background-color: #9fcbd1;
-    color: #8722FA;}
+    background-color: #aa8270;
+    color: #0a0114;}
 h1, h2, h3, h4, h5, h6 {font-family:Parkinsans;
     font-size: 30pt;}
     h1 {font-size: 40pt;}
@@ -16,7 +16,10 @@ padding: 10px;}
  #bio {text-align: center;}
 /*hobbies section*/
  #hobbies {color:black;
-border: 20px solid yellow}
+border: 20px solid yellow; 
+display: flex; 
+flex-direction: column; 
+align-items: center;}
 /*gallery section*/
 #gallery {border: 2px solid black;}
 #gallery figure {text-align: center;}
@@ -24,3 +27,8 @@ border: 20px solid yellow}
 #lit {border-color: azure;
 text-align: center;
 text-decoration-color: #8722FA;}
+figcaption:flex;
+justify-content: center;
+align-items: center;
+font-size: 2rem;
+margin-left: 1rem;
